@@ -1,0 +1,28 @@
+body{
+    background-color: #054f77;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  25px;
+}
+header{
+    color: black;
+    text-align: center;
+}
+
+section{
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px #696969;
+}
+
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+}
+
+div{
+    text-align: center;
+}
